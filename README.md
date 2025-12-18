@@ -20,8 +20,7 @@ This project features a small landing page that describes the game and a separat
 
 ## Live Demo
 
-Live demo (GitHub Pages): **coming soon**  
-Once the project is deployed with GitHub Pages, the link will be added here.
+Live demo (GitHub Pages): [https://son31dt.github.io/tetris_js/](https://son31dt.github.io/tetris_js/)
 
 ## Features
 
